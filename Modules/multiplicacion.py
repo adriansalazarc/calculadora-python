@@ -1,4 +1,4 @@
-class MultiplicacionDeDosNumeros:
+class MultiplicacionNumeros:
     def __init__(self, num1, num2, num3 = None):
         self.num1 = num1
         self.num2 = num2
